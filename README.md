@@ -1,0 +1,2 @@
+# DuplicateEncoder
+Duplicate Encoder
